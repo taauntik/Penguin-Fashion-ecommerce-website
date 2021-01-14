@@ -1,0 +1,76 @@
+.logo {
+    width: 300px
+}
+
+header {
+    background: #FFFBF0;
+}
+
+.yellow {
+    color: #FABE4C;
+}
+
+.common {
+    color: #363958;
+}
+
+button i {
+    color: white;
+}
+
+button {
+    background: #9EB73E;
+    color: white;
+    border-radius: 5px;
+}
+
+
+.img-2 {
+    width: 85%;
+    height: 200px;
+    background: #F1F1F1;
+    padding: 0px 30px;
+}
+
+h1, h2, h3 {
+    font-weight: bold
+}
+
+.dollar {
+    color: #FABE4C;
+}
+
+.section-3 {
+    margin: 50px 0px;
+}
+
+.section-2 {
+    padding-bottom: 100px;
+}
+
+.img-10 {
+    width: 80px;
+    height: 75px;
+}
+
+.off-1 {
+    background:white;
+    border-radius: 10px;
+}
+
+.section-5 {
+    margin-top: 100px;
+    background: 
+}
+
+.SEC {
+    padding: 60px;
+}
+
+.color {
+
+}
+
+.back-color {
+    background: #FFFCFA;
+}
